@@ -13,26 +13,26 @@
 		E82189192136352700AD89A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E82189182136352700AD89A1 /* Assets.xcassets */; };
 		E821891C2136352700AD89A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E821891A2136352700AD89A1 /* LaunchScreen.storyboard */; };
 		E821891F2136352700AD89A1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E821891E2136352700AD89A1 /* main.m */; };
-		E821899B2136356600AD89A1 /* SGDialog.m in Sources */ = {isa = PBXBuildFile; fileRef = E821896B2136356600AD89A1 /* SGDialog.m */; };
-		E821899C2136356600AD89A1 /* SVRadialGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = E821896D2136356600AD89A1 /* SVRadialGradientLayer.m */; };
-		E821899D2136356600AD89A1 /* SVProgressAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189702136356600AD89A1 /* SVProgressAnimatedView.m */; };
-		E821899E2136356600AD89A1 /* SVProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189732136356600AD89A1 /* SVProgressHUD.m */; };
-		E821899F2136356600AD89A1 /* SVIndefiniteAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189742136356600AD89A1 /* SVIndefiniteAnimatedView.m */; };
-		E82189A02136356600AD89A1 /* SVProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E82189752136356600AD89A1 /* SVProgressHUD.bundle */; };
-		E82189A12136356600AD89A1 /* SGBaseNetTool.m in Sources */ = {isa = PBXBuildFile; fileRef = E821897C2136356600AD89A1 /* SGBaseNetTool.m */; };
-		E82189A22136356600AD89A1 /* SGNetStatusManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E821897D2136356600AD89A1 /* SGNetStatusManager.m */; };
-		E82189A32136356600AD89A1 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189832136356600AD89A1 /* AFURLResponseSerialization.m */; };
-		E82189A42136356600AD89A1 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189842136356600AD89A1 /* AFHTTPSessionManager.m */; };
-		E82189A52136356600AD89A1 /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189862136356600AD89A1 /* AFURLSessionManager.m */; };
-		E82189A62136356600AD89A1 /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189872136356600AD89A1 /* AFURLRequestSerialization.m */; };
-		E82189A72136356600AD89A1 /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189892136356600AD89A1 /* AFNetworkReachabilityManager.m */; };
-		E82189A82136356600AD89A1 /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = E821898A2136356600AD89A1 /* AFSecurityPolicy.m */; };
-		E82189A92136356600AD89A1 /* SGNetTool.m in Sources */ = {isa = PBXBuildFile; fileRef = E821898D2136356600AD89A1 /* SGNetTool.m */; };
-		E82189AA2136356600AD89A1 /* SGAppHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189902136356600AD89A1 /* SGAppHelper.m */; };
-		E82189AB2136356600AD89A1 /* SGBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189922136356600AD89A1 /* SGBaseViewController.m */; };
-		E82189AC2136356600AD89A1 /* UIView+SGExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189942136356600AD89A1 /* UIView+SGExtension.m */; };
-		E82189AD2136356600AD89A1 /* UIColor+SGExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189952136356600AD89A1 /* UIColor+SGExtension.m */; };
-		E82189AE2136356600AD89A1 /* SGBaseNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189962136356600AD89A1 /* SGBaseNavigationController.m */; };
+		E82189E121363C7F00AD89A1 /* SGDialog.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189B121363C7E00AD89A1 /* SGDialog.m */; };
+		E82189E221363C7F00AD89A1 /* SVRadialGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189B321363C7E00AD89A1 /* SVRadialGradientLayer.m */; };
+		E82189E321363C7F00AD89A1 /* SVProgressAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189B621363C7E00AD89A1 /* SVProgressAnimatedView.m */; };
+		E82189E421363C7F00AD89A1 /* SVProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189B921363C7E00AD89A1 /* SVProgressHUD.m */; };
+		E82189E521363C7F00AD89A1 /* SVIndefiniteAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189BA21363C7E00AD89A1 /* SVIndefiniteAnimatedView.m */; };
+		E82189E621363C7F00AD89A1 /* SVProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E82189BB21363C7E00AD89A1 /* SVProgressHUD.bundle */; };
+		E82189E721363C7F00AD89A1 /* SGAppHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189C021363C7E00AD89A1 /* SGAppHelper.m */; };
+		E82189E821363C7F00AD89A1 /* SGBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189C221363C7E00AD89A1 /* SGBaseViewController.m */; };
+		E82189E921363C7F00AD89A1 /* UIView+SGExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189C421363C7E00AD89A1 /* UIView+SGExtension.m */; };
+		E82189EA21363C7F00AD89A1 /* UIColor+SGExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189C521363C7E00AD89A1 /* UIColor+SGExtension.m */; };
+		E82189EB21363C7F00AD89A1 /* SGBaseNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189C621363C7E00AD89A1 /* SGBaseNavigationController.m */; };
+		E82189EC21363C7F00AD89A1 /* SGBaseNetTool.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189CF21363C7E00AD89A1 /* SGBaseNetTool.m */; };
+		E82189ED21363C7F00AD89A1 /* SGNetStatusManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189D021363C7E00AD89A1 /* SGNetStatusManager.m */; };
+		E82189EE21363C7F00AD89A1 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189D621363C7E00AD89A1 /* AFURLResponseSerialization.m */; };
+		E82189EF21363C7F00AD89A1 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189D721363C7E00AD89A1 /* AFHTTPSessionManager.m */; };
+		E82189F021363C7F00AD89A1 /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189D921363C7E00AD89A1 /* AFURLSessionManager.m */; };
+		E82189F121363C7F00AD89A1 /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189DA21363C7E00AD89A1 /* AFURLRequestSerialization.m */; };
+		E82189F221363C7F00AD89A1 /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189DC21363C7E00AD89A1 /* AFNetworkReachabilityManager.m */; };
+		E82189F321363C7F00AD89A1 /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189DD21363C7E00AD89A1 /* AFSecurityPolicy.m */; };
+		E82189F421363C7F00AD89A1 /* SGNetTool.m in Sources */ = {isa = PBXBuildFile; fileRef = E82189E021363C7E00AD89A1 /* SGNetTool.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,50 +46,50 @@
 		E821891B2136352700AD89A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E821891D2136352700AD89A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E821891E2136352700AD89A1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E821896B2136356600AD89A1 /* SGDialog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGDialog.m; sourceTree = "<group>"; };
-		E821896D2136356600AD89A1 /* SVRadialGradientLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVRadialGradientLayer.m; sourceTree = "<group>"; };
-		E821896E2136356600AD89A1 /* SVIndefiniteAnimatedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVIndefiniteAnimatedView.h; sourceTree = "<group>"; };
-		E821896F2136356600AD89A1 /* SVProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVProgressHUD.h; sourceTree = "<group>"; };
-		E82189702136356600AD89A1 /* SVProgressAnimatedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVProgressAnimatedView.m; sourceTree = "<group>"; };
-		E82189712136356600AD89A1 /* SVProgressHUD-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SVProgressHUD-Prefix.pch"; sourceTree = "<group>"; };
-		E82189722136356600AD89A1 /* SVRadialGradientLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVRadialGradientLayer.h; sourceTree = "<group>"; };
-		E82189732136356600AD89A1 /* SVProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVProgressHUD.m; sourceTree = "<group>"; };
-		E82189742136356600AD89A1 /* SVIndefiniteAnimatedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVIndefiniteAnimatedView.m; sourceTree = "<group>"; };
-		E82189752136356600AD89A1 /* SVProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SVProgressHUD.bundle; sourceTree = "<group>"; };
-		E82189762136356600AD89A1 /* SVProgressAnimatedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVProgressAnimatedView.h; sourceTree = "<group>"; };
-		E82189772136356600AD89A1 /* SGDialog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGDialog.h; sourceTree = "<group>"; };
-		E82189792136356600AD89A1 /* SGNetStatusManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGNetStatusManager.h; sourceTree = "<group>"; };
-		E821897A2136356600AD89A1 /* SGBaseNetTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGBaseNetTool.h; sourceTree = "<group>"; };
-		E821897B2136356600AD89A1 /* SGNetTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGNetTool.h; sourceTree = "<group>"; };
-		E821897C2136356600AD89A1 /* SGBaseNetTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGBaseNetTool.m; sourceTree = "<group>"; };
-		E821897D2136356600AD89A1 /* SGNetStatusManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGNetStatusManager.m; sourceTree = "<group>"; };
-		E821897F2136356600AD89A1 /* AFSecurityPolicy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFSecurityPolicy.h; sourceTree = "<group>"; };
-		E82189802136356600AD89A1 /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
-		E82189812136356600AD89A1 /* AFURLSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLSessionManager.h; sourceTree = "<group>"; };
-		E82189822136356600AD89A1 /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLRequestSerialization.h; sourceTree = "<group>"; };
-		E82189832136356600AD89A1 /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLResponseSerialization.m; sourceTree = "<group>"; };
-		E82189842136356600AD89A1 /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPSessionManager.m; sourceTree = "<group>"; };
-		E82189852136356600AD89A1 /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLResponseSerialization.h; sourceTree = "<group>"; };
-		E82189862136356600AD89A1 /* AFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLSessionManager.m; sourceTree = "<group>"; };
-		E82189872136356600AD89A1 /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLRequestSerialization.m; sourceTree = "<group>"; };
-		E82189882136356600AD89A1 /* AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworking.h; sourceTree = "<group>"; };
-		E82189892136356600AD89A1 /* AFNetworkReachabilityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFNetworkReachabilityManager.m; sourceTree = "<group>"; };
-		E821898A2136356600AD89A1 /* AFSecurityPolicy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFSecurityPolicy.m; sourceTree = "<group>"; };
-		E821898B2136356600AD89A1 /* AFCompatibilityMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFCompatibilityMacros.h; sourceTree = "<group>"; };
-		E821898C2136356600AD89A1 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPSessionManager.h; sourceTree = "<group>"; };
-		E821898D2136356600AD89A1 /* SGNetTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGNetTool.m; sourceTree = "<group>"; };
-		E821898F2136356600AD89A1 /* UIColor+SGExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+SGExtension.h"; sourceTree = "<group>"; };
-		E82189902136356600AD89A1 /* SGAppHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGAppHelper.m; sourceTree = "<group>"; };
-		E82189912136356600AD89A1 /* SGBaseNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGBaseNavigationController.h; sourceTree = "<group>"; };
-		E82189922136356600AD89A1 /* SGBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGBaseViewController.m; sourceTree = "<group>"; };
-		E82189932136356600AD89A1 /* SGBaseMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGBaseMacro.h; sourceTree = "<group>"; };
-		E82189942136356600AD89A1 /* UIView+SGExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+SGExtension.m"; sourceTree = "<group>"; };
-		E82189952136356600AD89A1 /* UIColor+SGExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+SGExtension.m"; sourceTree = "<group>"; };
-		E82189962136356600AD89A1 /* SGBaseNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGBaseNavigationController.m; sourceTree = "<group>"; };
-		E82189972136356600AD89A1 /* SGAppHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGAppHelper.h; sourceTree = "<group>"; };
-		E82189982136356600AD89A1 /* UIView+SGExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+SGExtension.h"; sourceTree = "<group>"; };
-		E82189992136356600AD89A1 /* SGBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGBase.h; sourceTree = "<group>"; };
-		E821899A2136356600AD89A1 /* SGBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGBaseViewController.h; sourceTree = "<group>"; };
+		E82189B121363C7E00AD89A1 /* SGDialog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGDialog.m; sourceTree = "<group>"; };
+		E82189B321363C7E00AD89A1 /* SVRadialGradientLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVRadialGradientLayer.m; sourceTree = "<group>"; };
+		E82189B421363C7E00AD89A1 /* SVIndefiniteAnimatedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVIndefiniteAnimatedView.h; sourceTree = "<group>"; };
+		E82189B521363C7E00AD89A1 /* SVProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVProgressHUD.h; sourceTree = "<group>"; };
+		E82189B621363C7E00AD89A1 /* SVProgressAnimatedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVProgressAnimatedView.m; sourceTree = "<group>"; };
+		E82189B721363C7E00AD89A1 /* SVProgressHUD-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SVProgressHUD-Prefix.pch"; sourceTree = "<group>"; };
+		E82189B821363C7E00AD89A1 /* SVRadialGradientLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVRadialGradientLayer.h; sourceTree = "<group>"; };
+		E82189B921363C7E00AD89A1 /* SVProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVProgressHUD.m; sourceTree = "<group>"; };
+		E82189BA21363C7E00AD89A1 /* SVIndefiniteAnimatedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVIndefiniteAnimatedView.m; sourceTree = "<group>"; };
+		E82189BB21363C7E00AD89A1 /* SVProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SVProgressHUD.bundle; sourceTree = "<group>"; };
+		E82189BC21363C7E00AD89A1 /* SVProgressAnimatedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVProgressAnimatedView.h; sourceTree = "<group>"; };
+		E82189BD21363C7E00AD89A1 /* SGDialog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGDialog.h; sourceTree = "<group>"; };
+		E82189BF21363C7E00AD89A1 /* UIColor+SGExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+SGExtension.h"; sourceTree = "<group>"; };
+		E82189C021363C7E00AD89A1 /* SGAppHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGAppHelper.m; sourceTree = "<group>"; };
+		E82189C121363C7E00AD89A1 /* SGBaseNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGBaseNavigationController.h; sourceTree = "<group>"; };
+		E82189C221363C7E00AD89A1 /* SGBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGBaseViewController.m; sourceTree = "<group>"; };
+		E82189C321363C7E00AD89A1 /* SGBaseMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGBaseMacro.h; sourceTree = "<group>"; };
+		E82189C421363C7E00AD89A1 /* UIView+SGExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+SGExtension.m"; sourceTree = "<group>"; };
+		E82189C521363C7E00AD89A1 /* UIColor+SGExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+SGExtension.m"; sourceTree = "<group>"; };
+		E82189C621363C7E00AD89A1 /* SGBaseNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGBaseNavigationController.m; sourceTree = "<group>"; };
+		E82189C721363C7E00AD89A1 /* SGAppHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGAppHelper.h; sourceTree = "<group>"; };
+		E82189C821363C7E00AD89A1 /* UIView+SGExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+SGExtension.h"; sourceTree = "<group>"; };
+		E82189C921363C7E00AD89A1 /* SGBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGBase.h; sourceTree = "<group>"; };
+		E82189CA21363C7E00AD89A1 /* SGBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGBaseViewController.h; sourceTree = "<group>"; };
+		E82189CC21363C7E00AD89A1 /* SGNetStatusManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGNetStatusManager.h; sourceTree = "<group>"; };
+		E82189CD21363C7E00AD89A1 /* SGBaseNetTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGBaseNetTool.h; sourceTree = "<group>"; };
+		E82189CE21363C7E00AD89A1 /* SGNetTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SGNetTool.h; sourceTree = "<group>"; };
+		E82189CF21363C7E00AD89A1 /* SGBaseNetTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGBaseNetTool.m; sourceTree = "<group>"; };
+		E82189D021363C7E00AD89A1 /* SGNetStatusManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGNetStatusManager.m; sourceTree = "<group>"; };
+		E82189D221363C7E00AD89A1 /* AFSecurityPolicy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFSecurityPolicy.h; sourceTree = "<group>"; };
+		E82189D321363C7E00AD89A1 /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
+		E82189D421363C7E00AD89A1 /* AFURLSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLSessionManager.h; sourceTree = "<group>"; };
+		E82189D521363C7E00AD89A1 /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLRequestSerialization.h; sourceTree = "<group>"; };
+		E82189D621363C7E00AD89A1 /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLResponseSerialization.m; sourceTree = "<group>"; };
+		E82189D721363C7E00AD89A1 /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPSessionManager.m; sourceTree = "<group>"; };
+		E82189D821363C7E00AD89A1 /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLResponseSerialization.h; sourceTree = "<group>"; };
+		E82189D921363C7E00AD89A1 /* AFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLSessionManager.m; sourceTree = "<group>"; };
+		E82189DA21363C7E00AD89A1 /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLRequestSerialization.m; sourceTree = "<group>"; };
+		E82189DB21363C7E00AD89A1 /* AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworking.h; sourceTree = "<group>"; };
+		E82189DC21363C7E00AD89A1 /* AFNetworkReachabilityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFNetworkReachabilityManager.m; sourceTree = "<group>"; };
+		E82189DD21363C7E00AD89A1 /* AFSecurityPolicy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFSecurityPolicy.m; sourceTree = "<group>"; };
+		E82189DE21363C7E00AD89A1 /* AFCompatibilityMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFCompatibilityMacros.h; sourceTree = "<group>"; };
+		E82189DF21363C7E00AD89A1 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPSessionManager.h; sourceTree = "<group>"; };
+		E82189E021363C7E00AD89A1 /* SGNetTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SGNetTool.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,9 +122,7 @@
 		E821890E2136352500AD89A1 /* SGBaseFreamwork */ = {
 			isa = PBXGroup;
 			children = (
-				E821898E2136356600AD89A1 /* SGBase */,
-				E821896A2136356600AD89A1 /* SGDialog */,
-				E82189782136356600AD89A1 /* SGNetTool */,
+				E82189AF21363C7E00AD89A1 /* SGBaseFrameworke */,
 				E821890F2136352500AD89A1 /* AppDelegate.h */,
 				E82189102136352500AD89A1 /* AppDelegate.m */,
 				E82189122136352500AD89A1 /* ViewController.h */,
@@ -138,85 +136,95 @@
 			path = SGBaseFreamwork;
 			sourceTree = "<group>";
 		};
-		E821896A2136356600AD89A1 /* SGDialog */ = {
+		E82189AF21363C7E00AD89A1 /* SGBaseFrameworke */ = {
 			isa = PBXGroup;
 			children = (
-				E82189772136356600AD89A1 /* SGDialog.h */,
-				E821896B2136356600AD89A1 /* SGDialog.m */,
-				E821896C2136356600AD89A1 /* SVProgressHUD */,
+				E82189C921363C7E00AD89A1 /* SGBase.h */,
+				E82189B021363C7E00AD89A1 /* SGDialog */,
+				E82189BE21363C7E00AD89A1 /* SGBase */,
+				E82189CB21363C7E00AD89A1 /* SGNetTool */,
+			);
+			path = SGBaseFrameworke;
+			sourceTree = "<group>";
+		};
+		E82189B021363C7E00AD89A1 /* SGDialog */ = {
+			isa = PBXGroup;
+			children = (
+				E82189BD21363C7E00AD89A1 /* SGDialog.h */,
+				E82189B121363C7E00AD89A1 /* SGDialog.m */,
+				E82189B221363C7E00AD89A1 /* SVProgressHUD */,
 			);
 			path = SGDialog;
 			sourceTree = "<group>";
 		};
-		E821896C2136356600AD89A1 /* SVProgressHUD */ = {
+		E82189B221363C7E00AD89A1 /* SVProgressHUD */ = {
 			isa = PBXGroup;
 			children = (
-				E821896D2136356600AD89A1 /* SVRadialGradientLayer.m */,
-				E821896E2136356600AD89A1 /* SVIndefiniteAnimatedView.h */,
-				E821896F2136356600AD89A1 /* SVProgressHUD.h */,
-				E82189702136356600AD89A1 /* SVProgressAnimatedView.m */,
-				E82189712136356600AD89A1 /* SVProgressHUD-Prefix.pch */,
-				E82189722136356600AD89A1 /* SVRadialGradientLayer.h */,
-				E82189732136356600AD89A1 /* SVProgressHUD.m */,
-				E82189742136356600AD89A1 /* SVIndefiniteAnimatedView.m */,
-				E82189752136356600AD89A1 /* SVProgressHUD.bundle */,
-				E82189762136356600AD89A1 /* SVProgressAnimatedView.h */,
+				E82189B321363C7E00AD89A1 /* SVRadialGradientLayer.m */,
+				E82189B421363C7E00AD89A1 /* SVIndefiniteAnimatedView.h */,
+				E82189B521363C7E00AD89A1 /* SVProgressHUD.h */,
+				E82189B621363C7E00AD89A1 /* SVProgressAnimatedView.m */,
+				E82189B721363C7E00AD89A1 /* SVProgressHUD-Prefix.pch */,
+				E82189B821363C7E00AD89A1 /* SVRadialGradientLayer.h */,
+				E82189B921363C7E00AD89A1 /* SVProgressHUD.m */,
+				E82189BA21363C7E00AD89A1 /* SVIndefiniteAnimatedView.m */,
+				E82189BB21363C7E00AD89A1 /* SVProgressHUD.bundle */,
+				E82189BC21363C7E00AD89A1 /* SVProgressAnimatedView.h */,
 			);
 			path = SVProgressHUD;
 			sourceTree = "<group>";
 		};
-		E82189782136356600AD89A1 /* SGNetTool */ = {
+		E82189BE21363C7E00AD89A1 /* SGBase */ = {
 			isa = PBXGroup;
 			children = (
-				E821897B2136356600AD89A1 /* SGNetTool.h */,
-				E821898D2136356600AD89A1 /* SGNetTool.m */,
-				E821897A2136356600AD89A1 /* SGBaseNetTool.h */,
-				E821897C2136356600AD89A1 /* SGBaseNetTool.m */,
-				E82189792136356600AD89A1 /* SGNetStatusManager.h */,
-				E821897D2136356600AD89A1 /* SGNetStatusManager.m */,
-				E821897E2136356600AD89A1 /* AFNetworking */,
+				E82189C321363C7E00AD89A1 /* SGBaseMacro.h */,
+				E82189C721363C7E00AD89A1 /* SGAppHelper.h */,
+				E82189C021363C7E00AD89A1 /* SGAppHelper.m */,
+				E82189C821363C7E00AD89A1 /* UIView+SGExtension.h */,
+				E82189C421363C7E00AD89A1 /* UIView+SGExtension.m */,
+				E82189BF21363C7E00AD89A1 /* UIColor+SGExtension.h */,
+				E82189C521363C7E00AD89A1 /* UIColor+SGExtension.m */,
+				E82189CA21363C7E00AD89A1 /* SGBaseViewController.h */,
+				E82189C221363C7E00AD89A1 /* SGBaseViewController.m */,
+				E82189C121363C7E00AD89A1 /* SGBaseNavigationController.h */,
+				E82189C621363C7E00AD89A1 /* SGBaseNavigationController.m */,
+			);
+			path = SGBase;
+			sourceTree = "<group>";
+		};
+		E82189CB21363C7E00AD89A1 /* SGNetTool */ = {
+			isa = PBXGroup;
+			children = (
+				E82189CE21363C7E00AD89A1 /* SGNetTool.h */,
+				E82189E021363C7E00AD89A1 /* SGNetTool.m */,
+				E82189CD21363C7E00AD89A1 /* SGBaseNetTool.h */,
+				E82189CF21363C7E00AD89A1 /* SGBaseNetTool.m */,
+				E82189CC21363C7E00AD89A1 /* SGNetStatusManager.h */,
+				E82189D021363C7E00AD89A1 /* SGNetStatusManager.m */,
+				E82189D121363C7E00AD89A1 /* AFNetworking */,
 			);
 			path = SGNetTool;
 			sourceTree = "<group>";
 		};
-		E821897E2136356600AD89A1 /* AFNetworking */ = {
+		E82189D121363C7E00AD89A1 /* AFNetworking */ = {
 			isa = PBXGroup;
 			children = (
-				E821897F2136356600AD89A1 /* AFSecurityPolicy.h */,
-				E82189802136356600AD89A1 /* AFNetworkReachabilityManager.h */,
-				E82189812136356600AD89A1 /* AFURLSessionManager.h */,
-				E82189822136356600AD89A1 /* AFURLRequestSerialization.h */,
-				E82189832136356600AD89A1 /* AFURLResponseSerialization.m */,
-				E82189842136356600AD89A1 /* AFHTTPSessionManager.m */,
-				E82189852136356600AD89A1 /* AFURLResponseSerialization.h */,
-				E82189862136356600AD89A1 /* AFURLSessionManager.m */,
-				E82189872136356600AD89A1 /* AFURLRequestSerialization.m */,
-				E82189882136356600AD89A1 /* AFNetworking.h */,
-				E82189892136356600AD89A1 /* AFNetworkReachabilityManager.m */,
-				E821898A2136356600AD89A1 /* AFSecurityPolicy.m */,
-				E821898B2136356600AD89A1 /* AFCompatibilityMacros.h */,
-				E821898C2136356600AD89A1 /* AFHTTPSessionManager.h */,
+				E82189D221363C7E00AD89A1 /* AFSecurityPolicy.h */,
+				E82189D321363C7E00AD89A1 /* AFNetworkReachabilityManager.h */,
+				E82189D421363C7E00AD89A1 /* AFURLSessionManager.h */,
+				E82189D521363C7E00AD89A1 /* AFURLRequestSerialization.h */,
+				E82189D621363C7E00AD89A1 /* AFURLResponseSerialization.m */,
+				E82189D721363C7E00AD89A1 /* AFHTTPSessionManager.m */,
+				E82189D821363C7E00AD89A1 /* AFURLResponseSerialization.h */,
+				E82189D921363C7E00AD89A1 /* AFURLSessionManager.m */,
+				E82189DA21363C7E00AD89A1 /* AFURLRequestSerialization.m */,
+				E82189DB21363C7E00AD89A1 /* AFNetworking.h */,
+				E82189DC21363C7E00AD89A1 /* AFNetworkReachabilityManager.m */,
+				E82189DD21363C7E00AD89A1 /* AFSecurityPolicy.m */,
+				E82189DE21363C7E00AD89A1 /* AFCompatibilityMacros.h */,
+				E82189DF21363C7E00AD89A1 /* AFHTTPSessionManager.h */,
 			);
 			path = AFNetworking;
-			sourceTree = "<group>";
-		};
-		E821898E2136356600AD89A1 /* SGBase */ = {
-			isa = PBXGroup;
-			children = (
-				E82189992136356600AD89A1 /* SGBase.h */,
-				E82189932136356600AD89A1 /* SGBaseMacro.h */,
-				E82189972136356600AD89A1 /* SGAppHelper.h */,
-				E82189902136356600AD89A1 /* SGAppHelper.m */,
-				E821898F2136356600AD89A1 /* UIColor+SGExtension.h */,
-				E82189952136356600AD89A1 /* UIColor+SGExtension.m */,
-				E82189982136356600AD89A1 /* UIView+SGExtension.h */,
-				E82189942136356600AD89A1 /* UIView+SGExtension.m */,
-				E82189912136356600AD89A1 /* SGBaseNavigationController.h */,
-				E82189962136356600AD89A1 /* SGBaseNavigationController.m */,
-				E821899A2136356600AD89A1 /* SGBaseViewController.h */,
-				E82189922136356600AD89A1 /* SGBaseViewController.m */,
-			);
-			path = SGBase;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -279,7 +287,7 @@
 				E821891C2136352700AD89A1 /* LaunchScreen.storyboard in Resources */,
 				E82189192136352700AD89A1 /* Assets.xcassets in Resources */,
 				E82189172136352500AD89A1 /* Main.storyboard in Resources */,
-				E82189A02136356600AD89A1 /* SVProgressHUD.bundle in Resources */,
+				E82189E621363C7F00AD89A1 /* SVProgressHUD.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,26 +300,26 @@
 			files = (
 				E82189142136352500AD89A1 /* ViewController.m in Sources */,
 				E821891F2136352700AD89A1 /* main.m in Sources */,
+				E82189F221363C7F00AD89A1 /* AFNetworkReachabilityManager.m in Sources */,
+				E82189E921363C7F00AD89A1 /* UIView+SGExtension.m in Sources */,
+				E82189ED21363C7F00AD89A1 /* SGNetStatusManager.m in Sources */,
+				E82189EA21363C7F00AD89A1 /* UIColor+SGExtension.m in Sources */,
 				E82189112136352500AD89A1 /* AppDelegate.m in Sources */,
-				E82189A42136356600AD89A1 /* AFHTTPSessionManager.m in Sources */,
-				E82189A22136356600AD89A1 /* SGNetStatusManager.m in Sources */,
-				E82189A62136356600AD89A1 /* AFURLRequestSerialization.m in Sources */,
-				E82189A32136356600AD89A1 /* AFURLResponseSerialization.m in Sources */,
-				E82189A72136356600AD89A1 /* AFNetworkReachabilityManager.m in Sources */,
-				E821899F2136356600AD89A1 /* SVIndefiniteAnimatedView.m in Sources */,
-				E82189A12136356600AD89A1 /* SGBaseNetTool.m in Sources */,
-				E821899E2136356600AD89A1 /* SVProgressHUD.m in Sources */,
-				E82189AB2136356600AD89A1 /* SGBaseViewController.m in Sources */,
-				E821899B2136356600AD89A1 /* SGDialog.m in Sources */,
-				E82189A82136356600AD89A1 /* AFSecurityPolicy.m in Sources */,
-				E82189AC2136356600AD89A1 /* UIView+SGExtension.m in Sources */,
-				E821899C2136356600AD89A1 /* SVRadialGradientLayer.m in Sources */,
-				E82189A52136356600AD89A1 /* AFURLSessionManager.m in Sources */,
-				E821899D2136356600AD89A1 /* SVProgressAnimatedView.m in Sources */,
-				E82189AE2136356600AD89A1 /* SGBaseNavigationController.m in Sources */,
-				E82189AD2136356600AD89A1 /* UIColor+SGExtension.m in Sources */,
-				E82189A92136356600AD89A1 /* SGNetTool.m in Sources */,
-				E82189AA2136356600AD89A1 /* SGAppHelper.m in Sources */,
+				E82189F321363C7F00AD89A1 /* AFSecurityPolicy.m in Sources */,
+				E82189E521363C7F00AD89A1 /* SVIndefiniteAnimatedView.m in Sources */,
+				E82189E421363C7F00AD89A1 /* SVProgressHUD.m in Sources */,
+				E82189E121363C7F00AD89A1 /* SGDialog.m in Sources */,
+				E82189F021363C7F00AD89A1 /* AFURLSessionManager.m in Sources */,
+				E82189EC21363C7F00AD89A1 /* SGBaseNetTool.m in Sources */,
+				E82189E221363C7F00AD89A1 /* SVRadialGradientLayer.m in Sources */,
+				E82189F121363C7F00AD89A1 /* AFURLRequestSerialization.m in Sources */,
+				E82189E321363C7F00AD89A1 /* SVProgressAnimatedView.m in Sources */,
+				E82189E721363C7F00AD89A1 /* SGAppHelper.m in Sources */,
+				E82189F421363C7F00AD89A1 /* SGNetTool.m in Sources */,
+				E82189EB21363C7F00AD89A1 /* SGBaseNavigationController.m in Sources */,
+				E82189EE21363C7F00AD89A1 /* AFURLResponseSerialization.m in Sources */,
+				E82189EF21363C7F00AD89A1 /* AFHTTPSessionManager.m in Sources */,
+				E82189E821363C7F00AD89A1 /* SGBaseViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

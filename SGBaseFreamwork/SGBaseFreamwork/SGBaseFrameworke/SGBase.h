@@ -14,4 +14,6 @@
 #import "SGBaseViewController.h"
 #import "SGAppHelper.h"
 #import "SGBaseNavigationController.h"
+#import "SGNetTool.h"
+#Import "SGDialog.h"
 #endif /* SGBase_h */
