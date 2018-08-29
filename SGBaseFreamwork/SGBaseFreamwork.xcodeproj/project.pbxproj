@@ -122,7 +122,7 @@
 		E821890E2136352500AD89A1 /* SGBaseFreamwork */ = {
 			isa = PBXGroup;
 			children = (
-				E82189AF21363C7E00AD89A1 /* SGBaseFrameworke */,
+				E82189AF21363C7E00AD89A1 /* SGBaseFreamwork */,
 				E821890F2136352500AD89A1 /* AppDelegate.h */,
 				E82189102136352500AD89A1 /* AppDelegate.m */,
 				E82189122136352500AD89A1 /* ViewController.h */,
@@ -136,7 +136,7 @@
 			path = SGBaseFreamwork;
 			sourceTree = "<group>";
 		};
-		E82189AF21363C7E00AD89A1 /* SGBaseFrameworke */ = {
+		E82189AF21363C7E00AD89A1 /* SGBaseFreamwork */ = {
 			isa = PBXGroup;
 			children = (
 				E82189C921363C7E00AD89A1 /* SGBase.h */,
@@ -144,7 +144,7 @@
 				E82189BE21363C7E00AD89A1 /* SGBase */,
 				E82189CB21363C7E00AD89A1 /* SGNetTool */,
 			);
-			path = SGBaseFrameworke;
+			path = SGBaseFreamwork;
 			sourceTree = "<group>";
 		};
 		E82189B021363C7E00AD89A1 /* SGDialog */ = {

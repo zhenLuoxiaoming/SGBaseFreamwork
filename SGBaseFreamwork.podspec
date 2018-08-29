@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SGBaseFreamwork"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "This is a freamwork of SG Inc."
 
   # This description is used to generate tags and improve search results.
@@ -88,8 +88,8 @@ Pod::Spec.new do |s|
   #  For header files it will include any header in the folder.
   #  Not including the public_header_files will make all headers public.
   #
-
-  s.source_files  = 'SGBaseFreamwork/SGBaseFreamwork/SGBaseFreamwork/SGBase/*'
+  #XMPhotoPicker/**/*.{h,m,xib}
+  s.source_files  = 'SGBaseFreamwork/SGBaseFreamwork/SGBaseFreamwork/**/*.{h,m,xib}*'
 #s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
@@ -115,7 +115,7 @@ Pod::Spec.new do |s|
   #  the lib prefix of their name.
   #
 
-  # s.framework  = "SomeFramework"
+   s.framework  = "Foundation", "CoreGraphics", "UIKit", "ImageIO", "AssetsLibrary"
   # s.frameworks = "SomeFramework", "AnotherFramework"
 
   # s.library   = "iconv"
